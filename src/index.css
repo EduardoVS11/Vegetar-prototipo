@@ -1,0 +1,4 @@
+@import '@fontsource/poppins/400.css';
+@import '@fontsource/poppins/500.css';
+@import '@fontsource/poppins/600.css';
+:root{font-family:Poppins,Arial,sans-serif;color:#263238;background:#f8faf6;font-synthesis:none}*{box-sizing:border-box}body{margin:0;min-width:320px}button{font:inherit;cursor:pointer}
